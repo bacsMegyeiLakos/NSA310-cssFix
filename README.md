@@ -24,4 +24,5 @@ div.dojoDialog {
 This will center the popup boxes instead of having them at the bottom of the screen.
 
 Before:
-![kép](https://kephost.net/t/b5-LU4lYlWgBHEQ2qpjKoQ.png)
+
+![kép](https://kephost.net/p/b5-LU4lYlWgBHEQ2qpjKoQ.png)
