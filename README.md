@@ -1,7 +1,9 @@
 ## Zyxel NSA310 cssFix
 
 My NAS's specifications:
+
 Firmware version: V4.70(AFK.2) (Patched against CVE-2020-9054)
+
 Storage: 4TB WD RED
 
 ## Why is this?
@@ -32,3 +34,5 @@ Before:
 After:
 
 ![kép](https://kephost.net/p/4m0CYr0-Kp-lYn1uFW-S8w.png)
+
+Also, the shutdown and reset popups begins at the top of the page and not below it.
