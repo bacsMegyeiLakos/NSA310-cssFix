@@ -19,7 +19,7 @@ After installing the extension, grant permission to your NAS's IP and paste the 
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
-}```
+} ```
 
 This will center the popup boxes instead of having them at the bottom of the screen.
 
